@@ -1,0 +1,2 @@
+This template is designed using Bootstrap v4.2.1 (https://getbootstrap.com/)
+You can edit and use it on your projects.
